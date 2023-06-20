@@ -1,5 +1,5 @@
 # 💫 About Me:
-👉🏻 Hiii, I'm Mohammadali (MojTaba) Sefidi Esfahani.<br>🧑🏻‍🎓 Master of Computer Science, Graduate Research Assistant in IDSLAB<br>💻 Have some experiences ML / DeepLearning / NLP<br>📬 Contact me via LinkedIn or email<br>
+👉🏻 Hiii, I'm Mohammadali (MojTaba) Sefidi Esfahani.<br>🧑🏻‍🎓 Master of Computer Science & Graduate Research Assistant in IDSLAB<br>💻 Have some experiences in ML / DeepLearning / NLP<br>📬 Contact me via LinkedIn or email<br>
 
 
 ## 🌐 Socials:
