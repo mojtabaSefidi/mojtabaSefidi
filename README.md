@@ -1,4 +1,4 @@
-<h2 align="center">Hii Dear Friends 😇</h2> 
+<h2 align="center">Hi Dear Friends 😇</h2> 
 
 ```Python
 class mojtabaSefidi:
