@@ -4,7 +4,7 @@
 class mojtabaSefidi:
     def __init__(self):
         self.name = 'Mohammadali Sefidi Esfahani'
-        self.education = "Master of Science in Computer Science"
+        self.education = 'Master of Science in Computer Science'
         self.research_interests = ['Solving SE tasks with AI & NLP methodologies',
                                    'Computational Social Science']
 ```
