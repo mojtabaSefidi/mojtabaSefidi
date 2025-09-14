@@ -19,12 +19,12 @@ class mojtabaSefidi:
 <h2 align="center">For collaboration or discussion about my projects, contact me via</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mohammadali-esfahani/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
-         alt="LinkedIn" height="30" width="30" />
-  </a>&nbsp;
   <a href="mailto:mohammadali.sefidi@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"
          alt="Gmail" height="30" width="30" />
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/mohammadali-esfahani/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
+         alt="LinkedIn" height="30" width="30" />
   </a>
 </p>
